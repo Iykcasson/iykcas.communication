@@ -1,0 +1,21 @@
+body {
+            background: content-box radial-gradient(#F9FBE3, #D8FAFC);
+        }
+
+        hr {
+            border-style: dotted none none;
+            border-width: thick;
+            border-color: #327B67;
+            height: 0px;
+            width: 5%;
+        }
+
+        h3 {
+            color: #84A7AB;
+        }
+        h2 {
+            color: #84A7AB;
+        }
+        img {
+            width: 100%;
+        }
